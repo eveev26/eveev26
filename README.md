@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 
 Here are a few projects I'm proud of:
 
-1. [Library Database](https://github.com/eveev26/Library-Database): Library database that displays all the books available in a custom library. Users can search for a specific book and sort the database based on author or title. Users can also log into their account and borrow a book or they can return it instead. Built with Django, HTML, CSS, Bootstrap, and PostgreSQL.
+1. [Library Database](https://github.com/eveev26/Library-Database): Library database that displays all the books available in a custom library. Users can search for a specific book and sort the database based on author or title. Users can also log into their account and borrow a book or they can return it instead. Built with Django, HTML, CSS, Bootstrap, and SQLite.
 2. [SpeechSummarizer](https://github.com/eveev26/SpeechSummarizer): Submitted to Ignition Hacks 2023 and won Best Mobile App. Record your team having a meeting and then upload a video/audio file onto our app. SpeechSummarizer will then convert your meeting audio into condensed and informative meeting minutes. 
 3. [Virtual Pet Simulator](https://github.com/eveev26/Virtual-Pet-Simulator): A Greenfoot project that lets players take care of a virtual pet bunny. Players can feed and play with Bunny by dragging items to him. 
 
