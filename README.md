@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 
 <div align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eveev26&show_icons=true&locale=en&layout=compact" alt="eveev26" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eveev26&show_icons=true&locale=en" alt="eveev26" /></p>
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eveev26&show_icons=true&locale=en" alt="eveev26" /></p> -->
 </div>
 
 ## 🛠️ Projects
