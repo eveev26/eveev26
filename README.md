@@ -10,7 +10,7 @@
  
  # 👋 Hello, I'm Ivy
 
-💻 Computer Science Student | 🚀 Aspiring Data Scientist
+💻 Computer Science Student
 
 Welcome to my GitHub profile! Here you'll find some of my projects, contributions, and a glimpse into my coding journey.
 
